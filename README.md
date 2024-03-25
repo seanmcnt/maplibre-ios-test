@@ -10,4 +10,4 @@ This is a working example with those changes made.
 
 You will need to replace the API key in info.plist
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-25 at 08 43 56](https://github.com/seanmcnt/maplibre-test/assets/58150885/7828ecd5-0771-4491-abe1-d77168b95375)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-25 at 08 43 56](https://github.com/seanmcnt/maplibre-ios-test/assets/58150885/6e82df7d-482f-4eb3-bd12-f94c1f98f338)
